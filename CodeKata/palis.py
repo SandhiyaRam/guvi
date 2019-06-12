@@ -1,6 +1,6 @@
-number=input()
-mum=number[::-1]
-if number==mum:
+numb=input()
+mum=numb[::-1]
+if numb==mum:
   print("yes")
 else:
   print("no")
