@@ -1,15 +1,15 @@
 n=input()
 if n=='a':
-  print('vowel')
+  print('Vowel')
 elif n=='e':
-  print('vowel')
+  print('Vowel')
 elif n=='i':
-  print('vowel')
+  print('Vowel')
 elif n=='o':
-  print('vowel')
+  print('Vowel')
 elif n=='u':
-  print('vowel')
+  print('Vowel')
 elif n=='$':
   print("invalid")
 else:
-  print("consonant")  
+  print("Consonant")  
