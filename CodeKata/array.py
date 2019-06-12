@@ -5,4 +5,4 @@ if n==len(lis):
   for i in range(len(lis)+1):
     if i<m:
       sum=sum+lis[i]
-print(sum)  
+  print(sum)  
