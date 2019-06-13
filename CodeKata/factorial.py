@@ -1,9 +1,9 @@
-def factorial(n):
-  if (n==1 or n==0):
+def factorial(ns):
+  if (ns==1 or ns==0):
     return 1; 
   else: 
-    return n * factorial(n - 1);  
+    return ns * factorial(ns - 1);  
   
-num=int(input()) 
-print(factorial(num)) 
+nuum=int(input()) 
+print(factorial(nuum)) 
   
