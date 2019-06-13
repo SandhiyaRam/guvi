@@ -7,4 +7,4 @@ for ii in range(nosum1+1,nosum2):
     sumu += digits ** 3
     tempu //= 10
   if ii == sumu:
-    print(i,end=" ")
+    print(ii,end=" ")
