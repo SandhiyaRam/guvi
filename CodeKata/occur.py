@@ -6,6 +6,6 @@ if ma==len(lica):
     if lica[ai]==sa:
       cud=cud+1
 if cud>0:
-  print("Yes")
+  print("yes")
 else:
-  print("No")        
+  print("no")        
