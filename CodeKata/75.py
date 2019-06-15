@@ -1,0 +1,2 @@
+sanfi=input()
+print(sanfi)
