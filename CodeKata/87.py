@@ -1,5 +1,5 @@
 
-fac=int(input())
-for yu in range(1,fac+1):
-	if fac%yu==0:
-		print(yu)
+facy=int(input())
+for yuvi in range(1,facy+1):
+	if facy%yuvi==0:
+		print(yuvi)
