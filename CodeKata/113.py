@@ -1,4 +1,4 @@
 
-Ki=input()
-Kj=Ki.title()
-print(Kj)
+Khj=input()
+K=Khj.title()
+print(K)
