@@ -1,3 +1,3 @@
 
-Nu=input()
-print(Nu[::-1]
+nu=input()
+print(nu[::-1])
