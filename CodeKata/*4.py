@@ -1,1 +1,3 @@
 
+st=input()
+print(st+".")
