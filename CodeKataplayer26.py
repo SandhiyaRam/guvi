@@ -1,2 +1,2 @@
-str=input()
-print(str.replace("  "," "))
+sandy=input()
+print(sandy.replace("  "," "))
